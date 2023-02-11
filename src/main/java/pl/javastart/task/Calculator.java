@@ -1,4 +1,5 @@
 package pl.javastart.task;
+
 public class Calculator {
     boolean isEven(int number) {
         return number % 2 == 0;
